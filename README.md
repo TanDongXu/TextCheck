@@ -5,7 +5,7 @@
 >1. Use md5 lib to develop Text checking
 >2. Use Trie to check Text
 
->Comple
+>Compile
 >----------
 >Depend on openssl, must install it before compile.
 >Compile the code on linux
@@ -19,6 +19,6 @@
 
 >Informations
 >------------
->*Author : tdx
->*Welcome for any suggest!!
+>* Author : tdx
+>* Welcome for any suggest!!
 >*
